@@ -1,0 +1,11 @@
+{
+  "name": "ctc",
+  "version": "0.0.0",
+  "description": "landing page for confederation of workers and peasants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Víctor Martínez",
+  "license": "ISC"
+}
