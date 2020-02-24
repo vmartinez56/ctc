@@ -9550,6 +9550,10 @@ a:hover {
   }
 }
 
+.slide-one-item {
+  padding-top: 82px;
+}
+
 .slide-one-item.home-slider .owl-nav {
   position: absolute !important;
   top: 50% !important;
